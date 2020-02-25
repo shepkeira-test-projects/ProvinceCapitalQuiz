@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="provincial_capital_quiz">Provincial Capital Quiz</string>
+    <string name="number_of_questions">Number of Questions</string>
+    <string name="load_quiz">Load Quiz</string>
+    <string name="Q1">Please select the correct capital name from a list of options for each province and territory in Canada</string>
+    <string name="next">Next</string>
+    <string name="none">None</string>
+    <string name="toronto">Toronto</string>
+    <string name="hamilton">Hamilton</string>
+    <string name="ottawa">Ottawa</string>
+    <string name="john">St. John\'s</string>
+    <string name="charlottetown">Charlottetown</string>
+    <string name="winnipag">Winnipeg</string>
+    <string name="waterloo">Waterloo</string>
+    <string name="regina">Regina</string>
+    <string name="whitehorse">Whitehorse</string>
+    <string name="inuvik">Inuvik</string>
+    <string name="yellowknife">Yellowknife</string>
+    <string name="image_of_ontario">Image Of Ontario</string>
+    <string name="image_of_PEI">Image Of PEI</string>
+    <string name="image_of_newfoundland">Image of Newfoundland and Labrador</string>
+    <string name="image_of_northwest">Image of The Northwest Territories</string>
+    <string name="textview">TextView</string>
+    <string name="final_score">Final Score:</string>
+</resources>
